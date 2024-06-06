@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Map;
 import java.util.TreeMap;
 
@@ -8,6 +7,8 @@ public class HandOfStraights {
     public static void main(String...args)
     {
         boolean result = isNStraightHand(new int[]{1,2,3,6,2,3,4,7,8},3);
+
+        System.out.println(result);
     }
 
     public static boolean isNStraightHand(int[] hand, int groupSize) {
