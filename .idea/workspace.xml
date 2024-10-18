@@ -4,9 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69fc7742-d493-40cf-91d0-86966c8caeb9" name="Changes" comment="06-06-2024">
+    <list default="true" id="69fc7742-d493-40cf-91d0-86966c8caeb9" name="Changes" comment="06-06-2024 - Updated with Comments for future reference">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/CombinationOfSums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/CountOccurrenceOfCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/DuplicateInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/FindMinimumMaximumInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/FindTheLongestSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/FindTheSecondLargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/FirstNonRepeatingCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/MedianOfArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/MissingNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/MoveZeroesToEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/ReplaceWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/SingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/SortArrayByIncreasingFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/SquareOfArrayInNonDecreasing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HandOfStraights.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HandOfStraights.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HandOfStraights.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/HandOfStraights.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,49 +43,181 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "CharlesArunSDET"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CharlesArunSDET&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/CharlesArunSDET/Daily-Leetcode-",
-    "accountId": "4763e3d9-35a2-49b6-9c05-1b0f83e8759b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CharlesArunSDET/Daily-Leetcode-&quot;,
+    &quot;accountId&quot;: &quot;4763e3d9-35a2-49b6-9c05-1b0f83e8759b&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2hU6hA2wp7QgY1PNNA4J5ua7DQC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Anagram.executor": "Run",
+    "Application.ArrayConversion.executor": "Run",
+    "Application.BestTimeToBuySellStocks.executor": "Debug",
+    "Application.BestTimeToSellStocks.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CasingChallenge.executor": "Run",
+    "Application.Challenge.executor": "Debug",
+    "Application.CheckAnagram.executor": "Run",
+    "Application.CheckPalindrome.executor": "Run",
+    "Application.CountOccurrenceOfCharacter.executor": "Run",
+    "Application.DuplicateInArray.executor": "Run",
+    "Application.FindMinimumMaximumInArray.executor": "Run",
+    "Application.FindRepeatedCharacters.executor": "Run",
+    "Application.FindTheDuplicateNumber.executor": "Run",
+    "Application.FindTheSecondLargestNumber.executor": "Run",
+    "Application.FindUniqueWords.executor": "Run",
+    "Application.FirstAndLastOccurrenceOfNumbers.executor": "Run",
+    "Application.FirstLetterToAppearTwice.executor": "Run",
+    "Application.FirstNonRepeatingCharacter.executor": "Run",
+    "Application.FirstUniqueCharacter.executor": "Run",
+    "Application.FrequencyOfCharacters.executor": "Run",
+    "Application.GenerateRandomStringLength.executor": "Run",
     "Application.HandOfStraights.executor": "Run",
+    "Application.JavaBasics.executor": "Run",
+    "Application.KthDistinctArray.executor": "Run",
+    "Application.KthElementOfFactor.executor": "Run",
+    "Application.LargestPossibleNumber.executor": "Run",
+    "Application.LongestNonRepeating.executor": "Debug",
+    "Application.LongestNonRepeatingSubstring.executor": "Run",
+    "Application.MaximumNestingDepth.executor": "Run",
+    "Application.MaximumOccurrence.executor": "Run",
+    "Application.MaximumStringPairs.executor": "Run",
+    "Application.MinimumNumberOfCurrencies.executor": "Run",
+    "Application.MissingNumberInArray.executor": "Run",
+    "Application.MoveZeroesToEnd.executor": "Run",
+    "Application.NumberOfSeniorCitizens.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PermutationDifference.executor": "Run",
+    "Application.ProductOfArrayExceptItself.executor": "Debug",
+    "Application.ProgrammingChallenge.executor": "Run",
+    "Application.RansomNote.executor": "Run",
+    "Application.ReformatPhoneNumber.executor": "Run",
+    "Application.ReplaceWords.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.ReversePrefixOfWord.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.RightInvertedTriangle.executor": "Run",
+    "Application.RobotReturnToOrigin.executor": "Run",
+    "Application.RomanToArabicConversion.executor": "Run",
+    "Application.RotateArray.executor": "Run",
+    "Application.SingleLinkedList.executor": "Run",
+    "Application.SortArrayByIncreasingFrequency.executor": "Run",
+    "Application.SortingStrings.executor": "Run",
+    "Application.SquareOfArrayInNonDecreasing.executor": "Run",
+    "Application.StringExactReverse.executor": "Run",
+    "Application.StringFrequencyConversion.executor": "Run",
+    "Application.StringReverse.executor": "Debug",
+    "Application.StudentWhoReplacesChalk.executor": "Debug",
+    "Application.SubArrayWithGivenSum.executor": "Run",
+    "Application.SumOfDigitsOfString.executor": "Run",
+    "Application.SwapVowels.executor": "Run",
+    "Application.SwapWithoutSpecialCharacter.executor": "Run",
+    "Application.Triplets.executor": "Run",
+    "Application.TwoSum.executor": "Run",
+    "Application.UniqueTravelRoute.executor": "Run",
+    "Application.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="HandOfStraights" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HandOfStraights" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\charles.arun\AquaProjects\Leetcode\src\easy" />
+      <recent name="C:\Users\charles.arun\AquaProjects\Leetcode\src\Practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Palindrome">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Amazon.BinarySearch" />
       <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Amazon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstAndLastOccurrenceOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Amazon.FirstAndLastOccurrenceOfNumbers" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Amazon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstUniqueCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Amazon.FirstUniqueCharacter" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Amazon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindrome" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Amazon.TwoSum" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Amazon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HandOfStraights" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.FirstAndLastOccurrenceOfNumbers" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.FirstUniqueCharacter" />
+        <item itemvalue="Application.TwoSum" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717637708398</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="06-06-2024 - Updated with Comments for future reference">
+      <option name="closed" value="true" />
+      <created>1717650058322</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717650058322</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +273,118 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="06-06-2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="06-06-2024" />
+    <MESSAGE value="06-06-2024 - Updated with Comments for future reference" />
+    <option name="LAST_COMMIT_MESSAGE" value="06-06-2024 - Updated with Comments for future reference" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Practice/MaximumOccurrence.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Medium/MinimumNumberOfCurrencies.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Medium/MinimumNumberOfCurrencies.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Medium/MinimumNumberOfCurrencies.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Medium/MinimumNumberOfCurrencies.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Medium/MinimumNumberOfCurrencies.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/Palindrome.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/Palindrome.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/StringReverse.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/StringReverse.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/StringReverse.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/StringReverse.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/StringReverse.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/StringReverse.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/StringFrequencyConversion.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/StringFrequencyConversion.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/StringFrequencyConversion.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/StringFrequencyConversion.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/StringFrequencyConversion.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/StringFrequencyConversion.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/Challenge.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
